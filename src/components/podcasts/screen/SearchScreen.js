@@ -192,7 +192,6 @@ const Search = () => {
             renderItem={renderItem1}
           />
         </View>
-
         <Text style={styles.textBrowse}>Browse all</Text>
 
         <View style={{marginTop: 10}}>
